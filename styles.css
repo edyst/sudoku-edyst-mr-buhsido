@@ -59,7 +59,7 @@
 }
 
 .cellsErr.cellsErr:focus {
-	background-color: #699cf5;
+	background-color: rgb(255, 131, 131);
 }
 
 .cellsErr:disabled {
