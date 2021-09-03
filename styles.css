@@ -59,7 +59,7 @@
 }
 
 .cellsErr.cellsErr:focus {
-	background-color: rgb(255, 131, 131);
+	background-color: #699cf5;
 }
 
 .cellsErr:disabled {
@@ -101,3 +101,5 @@
 .validate-button button:hover {
 	border: 1px solid rgb(21, 178, 218);
 }
+
+/* done  */
