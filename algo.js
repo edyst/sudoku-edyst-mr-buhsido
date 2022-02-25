@@ -1,5 +1,6 @@
 var duplicacy = Array(3); // 0 row; 1 col; 2 box
 
+// loop
 for (let i = 0; i < 3; i++) {
 	duplicacy[i] = new Array(9);
 }
